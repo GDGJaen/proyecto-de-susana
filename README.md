@@ -5,7 +5,7 @@
 
 # TEMA 5 – VECTORES EN EL ESPACIO
 ## 5.1 – LOS VECTORES Y SUS OPERACIONES
-### DEFINICIÓON
+### DEFINICIÓN
 Un vector es un segmento orientado. Un vector AB queda determinado por dos puntos, origen A y
 extremo B.
 
@@ -14,3 +14,6 @@ Elementos de un vector:
 • Dirección del vector es la dirección de la recta en la que se encuentra el vector y la de todas las
 rectas paralelas a ella.
 • Sentido si va de A a B o de B a A. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vector_01.svg/1200px-Vector_01.svg.png)
+
