@@ -3,8 +3,8 @@
   <h3>Apuntes de Susana</h3>
 </div>
 
-# TEMA 5 – VECTORES EN EL ESPACIO
-## 5.1 – LOS VECTORES Y SUS OPERACIONES
+# VECTORES EN EL ESPACIO
+##  LOS VECTORES Y SUS OPERACIONES
 ### DEFINICIÓN
 Un vector es un segmento orientado. Un vector AB queda determinado por dos puntos, origen A y
 extremo B.
